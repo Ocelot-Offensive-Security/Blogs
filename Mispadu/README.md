@@ -1,0 +1,1 @@
+#Mispadu Banking Trojan artifacts
